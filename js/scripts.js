@@ -142,4 +142,5 @@ calendar.addEventListener('click', e => {
   selectDays(e);
   enableSelect(e);
   getDayOfWeek(e.target.textContent);
+  clickedDay = getDayOfWeek(e.target.textContent);
 });
