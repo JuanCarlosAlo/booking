@@ -1,6 +1,6 @@
 # Booking
 
-![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/password-generator/main/docs/assets/images/readme.png)
+![Imagen del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/booking/main/assets/images/readme.png)
 
 ## Ejemplo en vivo
 
@@ -28,15 +28,15 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Ordenador
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/password-generator/main/docs/assets/images/readme.png)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/booking/main/assets/images/readme.png)
 
 ## Estados activos
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/password-generator/main/docs/assets/images/readme2.png)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/booking/main/assets/images/readme2.png)
 
-## Codigo
+## Parte de Codigo
 
-![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/password-generator/main/docs/assets/images/readme3.png)
+![Captura del proyecto](https://raw.githubusercontent.com/JuanCarlosAlo/booking/main/assets/images/readme3.png)
 
 ## Autor
 
